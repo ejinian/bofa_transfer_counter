@@ -1,8 +1,9 @@
-# SAMPLE TRANSACTIONS FROM BOFA
+# THESE ARE SAMPLE TRANSACTIONS FROM BOFA
+# REPLACE THIS FILE WITH YOUR OWN COPY PASTED TRANSACTIONS
 
 02/09/2023	
 Zelle Transfer Conf# 000; DENZEL WASHINGTON
-View/Edit	Transfer	$40.00	
+View/Edit	Transfer	-$40.00	
   
 02/09/2023	
 Zelle Transfer Conf# 000; BRUCE WILLIS
@@ -100,3 +101,26 @@ View/Edit	Transfer	$60.00
 Zelle Transfer Conf# 000; CARLOS LAUCHU
 View/Edit	Transfer	$60.00	
   
+11/15/2023	
+Zelle Transfer Conf# 000; ROBERT DE NIRO
+View/Edit	Transfer	-$100.00
+
+11/03/2022	
+Zelle Transfer Conf# 000; TRAVIS FIMMEL
+View/Edit	Transfer	$120.00
+
+11/01/2022	
+Zelle Transfer Conf# 000; TRAVIS FIMMEL
+View/Edit	Transfer	$200.00
+
+10/27/2022	
+Zelle Transfer Conf# 000; ARNOLD SCHWARZENEGGER
+View/Edit	Transfer	$120.00
+
+10/20/2022	
+Zelle Transfer Conf# 000; ARNOLD SCHWARZENEGGER
+View/Edit	Transfer	$60.00
+
+10/12/2022	
+Zelle Transfer Conf# 000; ARNOLD SCHWARZENEGGER
+View/Edit	Transfer	$40.00

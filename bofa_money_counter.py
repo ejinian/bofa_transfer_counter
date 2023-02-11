@@ -1,18 +1,47 @@
 # usr/bin/env python3
 # Author: Ernest Jinian
 import re
+import collections
 
+# Sample Zelle Transfer: Zelle Transfer Conf# 999j5d56i; ANTHONY KAUNATOR
 def read_contents(filename):
     file = open(filename, 'r')
     text = file.read()
-    x = re.findall('\d+\.\d+', text)
-    total_money = 0
-    amount_transactions = 0
-    for dollar_amount in x:
-        amount_transactions += 1
-        total_money += float(dollar_amount)
-    print('Total amount of transactions:', amount_transactions)
-    print('Net profit:', '$' + str(total_money))
+    
+    # regex to find all dollar amounts
+    dollars = re.findall('[-+]?\$\d+\.\d+', text)
+
+    # regex to find all names
+    names = re.findall('Zelle Transfer Conf# [\d\w]+; (.+)', text)
+
+    # variables
+    total_pos = 0
+    total_neg = 0
+    amount_pos_transactions = 0
+    amount_neg_transactions = 0
+    names = collections.Counter(names)
+
+    # looping through each dollar amount
+    for dollar_amount in dollars:
+        dollar_amount = dollar_amount.replace("$", "")
+        if float(dollar_amount) > 0:
+            total_pos += float(dollar_amount)
+            amount_pos_transactions += 1
+        else:
+            total_neg += float(dollar_amount)
+            amount_neg_transactions += 1
+    
+    # truncate total_pos and total_neg to 2 decimal places
+    total_pos = round(total_pos, 2)
+    total_neg = round(total_neg, 2)
+
+    res_str = "\b"
+    for pair in names.most_common():
+        res_str += pair[0] + " has " + str(pair[1]) + " transaction(s) with you\n"
+    print('Total amount of positive transactions:', str(amount_pos_transactions) + " (Received a total of $" + str(total_pos) + ")")
+    print('Total amount of negative transactions:', str(amount_neg_transactions) + " (Sent a total of $" + str(abs(total_neg)) + ")\n")
+    print('People in the file:\n', res_str if len(names) > 0 else 'No names found')
+    print('Net profit:', '$' + str(total_pos + total_neg))
     file.close()
 
 def main():
