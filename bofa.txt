@@ -1,192 +1,102 @@
-Processing	
-Zelle Transfer Conf# B5P0VC44J; HOVHANISSIAN, ZARUHI
-Credit	$400.00	
-Processing	
-Zelle Transfer CONF# R76AO623I; ARAD
-Debit	-$38.00	
-Processing	
-Zelle Transfer CONF# LNVS3ZI5M; ARTYOM KOLYEROV
-Debit	-$38.00	
-Processing	
-Zelle Transfer CONF# Q337EWA3A; KRUMOV, IVAYLO
-Debit	-$38.00	
-Processing	
-Zelle Transfer CONF# J6KMUS9HZ; KAUNATOR, ANTHONY
-Debit	-$130.00	
-Processing	
-Zelle Transfer CONF# PAJ8YNRGP; ARIANNA
-Debit	-$20.00	
-Processing	
-Zelle Transfer CONF# MWQN53TLI; ARTYOM KOLYEROV
-Debit	-$350.00	
-02/10/2023	
-Zelle Transfer Conf# ruxphk2kh; ALAN AMAYA
-View/Edit	Transfer	-$19.00	
-  
+# SAMPLE TRANSACTIONS FROM BOFA
+
 02/09/2023	
-Zelle Transfer Conf# 999qtutnd; LISA M WINKLER
+Zelle Transfer Conf# 000; DENZEL WASHINGTON
 View/Edit	Transfer	$40.00	
   
 02/09/2023	
-Zelle Transfer Conf# 999qltmkv; ELITE POOL AND SPA SERVICE, INC
-View/Edit	Transfer	$80.00	
-  
-02/07/2023	
-TAHOE DAVE'S SKI #1 02/06 PURCHASE XXX-XX83883 CA
-View/Edit	Debit Card	-$167.70	
-  
-02/06/2023	
-Zelle Transfer Conf# 999q2p7rc; LISA M WINKLER
+Zelle Transfer Conf# 000; BRUCE WILLIS
 View/Edit	Transfer	$80.00	
   
 02/06/2023	
-Zelle Transfer Conf# p9h3akd5u; LEVIN, ARAD
-View/Edit	Transfer	$374.98	
-  
-02/02/2023	
-Zelle Transfer Conf# exsgv2eso; Aryan
-View/Edit	Transfer	-$5.00	
-  
-02/01/2023	
-Zelle Transfer Conf# ixovcn7ac; V, Rahul
-View/Edit	Transfer	-$11.00	
-  
+Zelle Transfer Conf# 000; JASON STATHAM
+View/Edit	Transfer	$80.00	
+
 01/27/2023	
-Zelle Transfer Conf# 999lff7ct; LISA M WINKLER
+Zelle Transfer Conf# 000; SYLVESTER STALLONE
 View/Edit	Transfer	$40.00	
-  
-01/26/2023	
-Zelle Transfer Conf# bdmtad2it; Hovhannissian, Zara
-View/Edit	Transfer	-$200.00	
   
 01/25/2023	
-Zelle Transfer Conf# 999lbiqid; LISA M WINKLER
+Zelle Transfer Conf# 000; J.K. SIMMONS
 View/Edit	Transfer	$20.00	
   
 01/25/2023	
-Zelle Transfer Conf# 999l9zpeu; LISA M WINKLER
+Zelle Transfer Conf# 000; ANDREW LINCOLN
 View/Edit	Transfer	$100.00	
   
-01/24/2023	
-Zelle Transfer Conf# e0je4kc95; Hovhannissian, Zara
-View/Edit	Transfer	-$2,000.00	
-  
 01/23/2023	
-Zelle Transfer Conf# 999l66z61; LISA M WINKLER
+Zelle Transfer Conf# 000; ARNOLD SCHWARZENEGGER
 View/Edit	Transfer	$40.00	
-  
-01/23/2023	
-Zelle Transfer Conf# 999l82bd3; WAYNE A WINKLER
-View/Edit	Transfer	$60.00	
-  
-01/23/2023	
-BKOFAMERICA MOBILE 01/22 XXXXX51058 DEPOSIT *MOBILE CA
-View/Edit	Deposit	$1,907.00	
   
 01/19/2023	
-Zelle Transfer Conf# 999l229vk; LISA M WINKLER
+Zelle Transfer Conf# 000; VIN DIESEL
 View/Edit	Transfer	$60.00	
   
 01/18/2023	
-Zelle Transfer Conf# bpzex8ekb; Hovhannissian, Zara
-View/Edit	Transfer	-$15.00	
-  
-01/18/2023	
-Zelle Transfer Conf# ke9rmk45w; Chamie, Jacob
-View/Edit	Transfer	-$100.00	
-  
-01/18/2023	
-Zelle Transfer Conf# l0017ij10; Borya
-View/Edit	Transfer	-$100.00	
-  
-01/18/2023	
-Zelle Transfer Conf# jdwsk3yzc; Kaunator, Anthony
-View/Edit	Transfer	-$100.00	
-  
-01/18/2023	
-Zelle Transfer Conf# 999kygoyv; LISA M WINKLER
+Zelle Transfer Conf# 000; PAUL WALKER
 View/Edit	Transfer	$20.00	
   
 01/18/2023	
-Zelle Transfer Conf# 999l0pbxx; LISA M WINKLER
+Zelle Transfer Conf# 000; KARL URBAN
 View/Edit	Transfer	$120.00	
   
-01/17/2023	
-CVS CarePass 01/15 PURCHASE 800-746-7287 RI
-View/Edit	Debit Card	-$5.48	
-  
 01/12/2023	
-Zelle Transfer Conf# 999ksfv5p; LISA M WINKLER
+Zelle Transfer Conf# 000; ALEXANDER LUDWIG
 View/Edit	Transfer	$40.00	
   
 01/12/2023	
-Zelle Transfer Conf# 999krjagx; LISA M WINKLER
+Zelle Transfer Conf# 000; KATHERYN WINNICK
 View/Edit	Transfer	$60.00	
-  
-01/11/2023	
-Zelle Transfer Conf# hdxbrznm6; Hovhannissian, Zara
-View/Edit	Transfer	-$2,700.00	
   
 01/10/2023	
-Zelle Transfer Conf# 999kpvg9g; LISA M WINKLER
+Zelle Transfer Conf# 000; TRAVIS FIMMEL
 View/Edit	Transfer	$40.00	
   
 01/09/2023	
-Zelle Transfer Conf# 999kodnj8; LISA M WINKLER
+Zelle Transfer Conf# 000; BRYAN CRANSTON
 View/Edit	Transfer	$60.00	
   
-01/09/2023	
-Zelle Transfer Conf# 999kn4n3j; BORIS V KAMENOV
-View/Edit	Transfer	$375.60	
-  
-01/06/2023	
-APPLECARD GSBANK DES:PAYMENT ID:58814936 INDN:Ernest Jinian CO ID:XXXXX99999 WEB
-View/Edit	Other Payment	-$319.32	
-  
-01/06/2023	
-Zelle Transfer Conf# 999kilw6q; ELLEN KRIVULIN
-View/Edit	Transfer	$375.00	
-  
-01/06/2023	
-Zelle Transfer Conf# T0QXP3XBM; ARTEM KOLYEROV
-View/Edit	Transfer	$375.60	
-  
-12/30/2022	
-BKOFAMERICA ATM 12/30 #XXXXX8547 DEPOSIT DEVONSHIRE-RESEDA NORTHRIDGE CA
-View/Edit	Deposit	$1,320.00	
-  
-12/27/2022	
-Zelle Transfer Conf# cf3hf03jy; Krumov, Ivaylo
-View/Edit	Transfer	-$50.00	
-  
-12/27/2022	
-Zelle Transfer Conf# b8lxo0uxe; Shubhangi
-View/Edit	Transfer	-$20.00	
-  
-12/27/2022	
-Zelle Transfer Conf# iwpfi85vf; VERMA, SHUBHANGI
-View/Edit	Transfer	$20.00	
-  
-12/22/2022	
-APPLECARD GSBANK DES:PAYMENT ID:58814936 INDN:Ernest Jinian CO ID:XXXXX99999 WEB
-View/Edit	Other Payment	-$188.42	
-  
 12/20/2022	
-Zelle Transfer Conf# 999jw4bgz; LISA M WINKLER
+Zelle Transfer Conf# 000; AARON PAUL
 View/Edit	Transfer	$40.00	
   
-12/16/2022	
-CVS CarePass 12/15 PURCHASE 800-746-7287 RI
-View/Edit	Debit Card	-$5.48	
-  
 12/15/2022	
-Zelle Transfer Conf# bv3iwb3mt; Aryan
-View/Edit	Transfer	-$27.00	
-  
-12/15/2022	
-Zelle Transfer Conf# 999jpqglz; LISA M WINKLER
+Zelle Transfer Conf# 000; JACKIE CHAN
 View/Edit	Transfer	$100.00	
   
-12/12/2022	
-Zelle Transfer Conf# ckz7tt2xs; Aryan
-View/Edit	Transfer	-$11.38
+12/09/2022	
+Zelle Transfer Conf# 000; MATT DAMON
+View/Edit	Transfer	$20.00	
+  
+12/06/2022	
+Zelle Transfer Conf# 000; MICHAEL MADSEN
+View/Edit	Transfer	$100.00	
+  
+12/05/2022	
+Zelle Transfer Conf# 000; RAY LIOTTA
+View/Edit	Transfer	$60.00	
+  
+12/02/2022	
+Zelle Transfer Conf# 000; JOE PANTOLIANO
+View/Edit	Transfer	$40.00	
+  
+11/30/2022	
+Zelle Transfer Conf# 000; CHAZZ PALMINTERI
+View/Edit	Transfer	$60.00	
+  
+11/30/2022	
+Zelle Transfer Conf# 000; VINNIE JONES
+View/Edit	Transfer	$60.00	
+  
+11/29/2022	
+Zelle Transfer Conf# 000; CHRIS PRATT
+View/Edit	Transfer	$40.00	
+  
+11/17/2022	
+Zelle Transfer Conf# 000; CHRISTOPHER JUDGE
+View/Edit	Transfer	$60.00	
+  
+11/16/2022	
+Zelle Transfer Conf# 000; CARLOS LAUCHU
+View/Edit	Transfer	$60.00	
+  
