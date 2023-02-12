@@ -3,7 +3,6 @@
 import re
 import collections
 
-# Sample Zelle Transfer: Zelle Transfer Conf# 999j5d56i; ANTHONY KAUNATOR
 def read_contents(filename):
     file = open(filename, 'r')
     text = file.read()
