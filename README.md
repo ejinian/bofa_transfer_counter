@@ -5,9 +5,9 @@ Instructions on how to use it are below.
 
 ## Instructions
 
-1. Download bofa_money_counter.py. You can optionally download bofa.txt, which is a sample file that you can use to test the script. If you do not download bofa.txt, you will have to create your own text file called bofa.txt.
+1. Clone the repository or download as zip. 
 
-2. Navigate to your desired Bank of America account.
+2. Open a new tab on your browser. Navigate to your desired Bank of America account.
 
 3. Click on the "Activity" tab.
 ![Activity Tab](tutorial_imgs/img1.png)
@@ -21,7 +21,7 @@ Instructions on how to use it are below.
 6. Copy the contents of the transactions section.
 ![Copy Contents](tutorial_imgs/img4.png)
 
-7. Paste contents into a file called bofa.txt. This file must exist in the same directory as the script (bofa_money_counter.py).
+7. Open bofa.txt. You will see placeholder data, you can overwrite it. Paste contents into this file. This file must exist in the same directory as the script (bofa_money_counter.py).
 ![Paste Contents](tutorial_imgs/img5.png)
 
 8. Run the script. Instructions on how to run the script depend on your operating system.
@@ -33,7 +33,11 @@ For Mac/Linux, open your terminal and run the following command:
     
     python3 bofa_money_counter.py
     
-For Windows, open your command prompt and run the following command:
+For Windows, if you do NOT have python installed, open your command prompt and run the following command:
+    
+    .\dist\bofa_money_counter\bofa_money_counter.exe
+
+For Windows, if you have python installed, open your command prompt and run the following command:
     
     python bofa_money_counter.py
 

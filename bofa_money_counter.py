@@ -4,7 +4,11 @@ import re
 import collections
 
 def read_contents(filename):
-    file = open(filename, 'r')
+    try:
+        file = open(filename, 'r')
+    except FileNotFoundError:
+        print('File Error! bofa.txt is not in the same directory as this script')
+        return
     text = file.read()
     
     # regex to find all dollar amounts
