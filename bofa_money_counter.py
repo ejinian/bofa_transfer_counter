@@ -12,7 +12,7 @@ def read_contents(filename):
     text = file.read()
     
     # regex to find all dollar amounts
-    dollars = re.findall('[-+]?\$\d+\.\d+', text)
+    dollars = re.findall('[-+]?\$\d{1,3}(?:,\d{3})*\.\d{2}', text)
 
     # regex to find all names
     names = re.findall('Zelle Transfer Conf# [\d\w]+; (.+)', text)
@@ -27,6 +27,7 @@ def read_contents(filename):
     # looping through each dollar amount
     for dollar_amount in dollars:
         dollar_amount = dollar_amount.replace("$", "")
+        dollar_amount = dollar_amount.replace(",", "")
         if float(dollar_amount) > 0:
             total_pos += float(dollar_amount)
             amount_pos_transactions += 1
@@ -34,17 +35,22 @@ def read_contents(filename):
             total_neg += float(dollar_amount)
             amount_neg_transactions += 1
     
-    # truncate total_pos and total_neg to 2 decimal places
-    total_pos = round(total_pos, 2)
-    total_neg = round(total_neg, 2)
+    total = total_pos + total_neg
+    total = "{:,.2f}".format(total)
 
+    # truncate total_pos and total_neg to 2 decimal places
+    total_pos = "{:,.2f}".format(total_pos)
+    total_neg = "{:,.2f}".format(abs(total_neg))
+
+    # format the counter object    
     res_str = "\b"
     for pair in names.most_common():
         res_str += pair[0] + " has " + str(pair[1]) + " transaction(s) with you\n"
+    
     print('Total amount of positive transactions:', str(amount_pos_transactions) + " (Received a total of $" + str(total_pos) + ")")
-    print('Total amount of negative transactions:', str(amount_neg_transactions) + " (Sent a total of $" + str(abs(total_neg)) + ")\n")
+    print('Total amount of negative transactions:', str(amount_neg_transactions) + " (Sent a total of $" + str(total_neg) + ")\n")
     print('People in the file:\n', res_str if len(names) > 0 else 'No names found')
-    print('Net profit:', '$' + str(total_pos + total_neg))
+    print('Net profit:', '$' + str(total))
     file.close()
 
 def main():

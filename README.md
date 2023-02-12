@@ -45,5 +45,6 @@ For Windows, if you have python installed, open your command prompt and run the 
 ## Notes
 
 * Any file not named bofa.txt will be ignored.
-* The script will count all transfers, including those that are processing.
+* The script will count all transfers, including those that are processing. Anything pasted into bofa.txt will be counted.
+* This can theoretically work with any bank, but the regex was built for Bank of America. (Money will be caught by the regex, but not the names of people.)
 * THIS IS NOT MALWARE. The source code is available for you to see.
