@@ -29,17 +29,15 @@ Instructions on how to use it are below.
 ## Usage
 For Mac/Linux, open your terminal and run the following command:
     
-    ```bash
     python3 bofa_money_counter.py
-    ```
+    
 For Windows, open your command prompt and run the following command:
     
-    ```bash
     python bofa_money_counter.py
-    ```
+
 
 ## Notes
 
 * Any file not named bofa.txt will be ignored.
-* The script will only count all transfers, including those that are processing.
+* The script will count all transfers, including those that are processing.
 * THIS IS NOT MALWARE. The source code is available for you to see.
