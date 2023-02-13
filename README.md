@@ -1,11 +1,11 @@
 # BOFA Transfer Counter
 
-This is a simple script used to count the number of transfers in a Bank of America Account Activity page using regular expressions.
+This is a simple script used to count the number of transfers and the total amount of money sent/received in a Bank of America Account Activity page using regular expressions.
 Instructions on how to use it are below.
 
 ## Instructions
 
-1. Clone the repository or download as zip. 
+1. Clone the repository or download as zip. Extract the zip wherever you want.
 
 2. Open a new tab on your browser. Navigate to your desired Bank of America account.
 
@@ -21,23 +21,25 @@ Instructions on how to use it are below.
 6. Copy the contents of the transactions section.
 ![Copy Contents](tutorial_imgs/img4.png)
 
-7. Open bofa.txt. You will see placeholder data, you can overwrite it. Paste contents into this file. This file must exist in the same directory as the script (bofa_money_counter.py).
+7. Open bofa.txt. You will see placeholder data, you can overwrite it. Paste contents into this file. This file must exist in the same directory as the script (bofa_money_counter.py). You do not have to format any data after pasting.
 ![Paste Contents](tutorial_imgs/img5.png)
 
-8. Run the script. Instructions on how to run the script depend on your operating system.
+8. Run the script. Instructions on how to run the script are below.
 
 9. Enjoy!
 
 ## Usage
-For Mac/Linux, open your terminal and run the following command:
+Open your terminal/command prompt and navigate to the directory where the extracted files are located.
+
+For Mac/Linux, run the following command:
     
     python3 bofa_money_counter.py
     
-For Windows, if you do NOT have python installed, open your command prompt and run the following command:
+For Windows, if you do NOT have python installed, run the following command:
     
     .\dist\bofa_money_counter\bofa_money_counter.exe
 
-For Windows, if you have python installed, open your command prompt and run the following command:
+For Windows, if you have python installed, run the following command:
     
     python bofa_money_counter.py
 
