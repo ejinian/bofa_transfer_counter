@@ -1,0 +1,126 @@
+# THESE ARE SAMPLE TRANSACTIONS FROM BOFA
+# REPLACE THIS FILE WITH YOUR OWN COPY PASTED TRANSACTIONS
+
+02/09/2023	
+Zelle Transfer Conf# 000; DENZEL WASHINGTON
+View/Edit	Transfer	-$40.00	
+  
+02/09/2023	
+Zelle Transfer Conf# 000; BRUCE WILLIS
+View/Edit	Transfer	$80.00	
+  
+02/06/2023	
+Zelle Transfer Conf# 000; JASON STATHAM
+View/Edit	Transfer	$80.00	
+
+01/27/2023	
+Zelle Transfer Conf# 000; SYLVESTER STALLONE
+View/Edit	Transfer	$40.00	
+  
+01/25/2023	
+Zelle Transfer Conf# 000; J.K. SIMMONS
+View/Edit	Transfer	$20.00	
+  
+01/25/2023	
+Zelle Transfer Conf# 000; ANDREW LINCOLN
+View/Edit	Transfer	$1,600.00	
+  
+01/23/2023	
+Zelle Transfer Conf# 000; ARNOLD SCHWARZENEGGER
+View/Edit	Transfer	$40.00	
+  
+01/19/2023	
+Zelle Transfer Conf# 000; VIN DIESEL
+View/Edit	Transfer	$640.00	
+  
+01/18/2023	
+Zelle Transfer Conf# 000; PAUL WALKER
+View/Edit	Transfer	$20.00	
+  
+01/18/2023	
+Zelle Transfer Conf# 000; KARL URBAN
+View/Edit	Transfer	$170.00	
+  
+01/12/2023	
+Zelle Transfer Conf# 000; ALEXANDER LUDWIG
+View/Edit	Transfer	$40.00	
+  
+01/12/2023	
+Zelle Transfer Conf# 000; KATHERYN WINNICK
+View/Edit	Transfer	$620.00	
+  
+01/10/2023	
+Zelle Transfer Conf# 000; TRAVIS FIMMEL
+View/Edit	Transfer	$400,000.00	
+  
+01/09/2023	
+Zelle Transfer Conf# 000; BRYAN CRANSTON
+View/Edit	Transfer	$60.00	
+  
+12/20/2022	
+Zelle Transfer Conf# 000; AARON PAUL
+View/Edit	Transfer	$40.00	
+  
+12/15/2022	
+Zelle Transfer Conf# 000; JACKIE CHAN
+View/Edit	Transfer	$190,000.00	
+  
+12/09/2022	
+Zelle Transfer Conf# 000; MATT DAMON
+View/Edit	Transfer	$20.00	
+  
+12/06/2022	
+Zelle Transfer Conf# 000; MICHAEL MADSEN
+View/Edit	Transfer	$10,000.00	
+  
+12/05/2022	
+Zelle Transfer Conf# 000; RAY LIOTTA
+View/Edit	Transfer	$60.00	
+  
+12/02/2022	
+Zelle Transfer Conf# 000; JOE PANTOLIANO
+View/Edit	Transfer	$40.00	
+  
+11/30/2022	
+Zelle Transfer Conf# 000; CHAZZ PALMINTERI
+View/Edit	Transfer	$60.50	
+  
+11/30/2022	
+Zelle Transfer Conf# 000; VINNIE JONES
+View/Edit	Transfer	$60.00	
+  
+11/29/2022	
+Zelle Transfer Conf# 000; CHRIS PRATT
+View/Edit	Transfer	$40.90	
+  
+11/17/2022	
+Zelle Transfer Conf# 000; CHRISTOPHER JUDGE
+View/Edit	Transfer	$60.00	
+  
+11/16/2022	
+Zelle Transfer Conf# 000; CARLOS LAUCHU
+View/Edit	Transfer	$600.00	
+  
+11/15/2023	
+Zelle Transfer Conf# 000; ROBERT DE NIRO
+View/Edit	Transfer	-$1,000.00
+
+11/03/2022	
+Zelle Transfer Conf# 000; TRAVIS FIMMEL
+View/Edit	Transfer	$120.00
+
+11/01/2022	
+Zelle Transfer Conf# 000; TRAVIS FIMMEL
+View/Edit	Transfer	$200.00
+
+10/27/2022	
+Zelle Transfer Conf# 000; ARNOLD SCHWARZENEGGER
+View/Edit	Transfer	-$12,000.00
+
+10/20/2022	
+Zelle Transfer Conf# 000; ARNOLD SCHWARZENEGGER
+View/Edit	Transfer	$60.00
+
+10/12/2022	
+Zelle Transfer Conf# 000; ARNOLD SCHWARZENEGGER
+View/Edit	Transfer	$40.00
