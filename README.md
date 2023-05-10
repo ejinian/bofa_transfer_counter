@@ -27,6 +27,7 @@ Instructions on how to use it are below.
 8. Run the script. Instructions on how to run the script are below.
 
 9. Enjoy!
+![Result](tutorial_imgs/img6.png)
 
 ## Usage
 Open your terminal/command prompt and navigate to the directory where the extracted files are located.
@@ -49,4 +50,4 @@ For Windows, if you have python installed, run the following command:
 * Any file not named bofa.txt will be ignored.
 * The script will count all transfers, including those that are processing. Anything pasted into bofa.txt will be counted.
 * This can theoretically work with any bank, but the regex was built for Bank of America. (Money will be caught by the regex, but not the names of people.)
-* THIS IS NOT MALWARE. The source code is available for you to see.
+* THIS IS NOT MALWARE. You can always run the python file if you are worried about the executable.
